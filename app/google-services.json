@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "51591354981",
+    "firebase_url": "https://unspammer-3d312.firebaseio.com",
+    "project_id": "unspammer-3d312",
+    "storage_bucket": "unspammer-3d312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51591354981:android:49f35f4a656b1cba",
+        "android_client_info": {
+          "package_name": "com.example.admin.unspammer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51591354981-mrbpq1r2q96q67giu9vukj48hbb7ftla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0Il_z9PS9RKmLWyWwzcmTAhBmYZgdGZ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
